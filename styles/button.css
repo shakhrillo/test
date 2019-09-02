@@ -1,0 +1,20 @@
+.button {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    display: block;
+    width: 100%;
+    padding: 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.button-primary {
+    background: #3b89cb;
+    color: #fff;
+    margin-top: auto;
+}
+
+.button svg {
+    margin-left: 10px;
+}
